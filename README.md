@@ -2,8 +2,7 @@
 A simple SIR model of COVID19 and some safety measure simulations
 
 
-#References
-**Answer box:**
+**References**
 Aiden Tomlinson and Caike Salles Campana, for group feedback and presentation
 https://en.wikipedia.org/wiki/Differential_equation#cite_note-Zill2012-1 definition on differential equations
 https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology definitions on SIR model and the system of equations
